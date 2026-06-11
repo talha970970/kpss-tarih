@@ -1,0 +1,6 @@
+{
+  "name": "KPSS 2026 Tarih Master",
+  "description": "Mantıksal neden-sonuç zincirleriyle, hafıza teknikleriyle ve yapay zekalı koçuyla KPSS Tarih dersini ezberletmeden öğreten premium eğitim platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
